@@ -1,7 +1,11 @@
 {
   "name": "timer",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "A timer that will start countdown with on an input of time",
+=======
+  "description": "A timer that will perform countdown based on an input of time",
+>>>>>>> origin/master
   "scripts": {
     "build": "webpack -d",
     "build:watch": "webpack --watch",
