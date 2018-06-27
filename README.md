@@ -4,7 +4,6 @@ A basic timer that will start a countdown based on an input of time in seconds.
 
 The Timer provides start, stop, and rest functionality. When the timer reaches a value <= 10, the timer color changes to red.
 
-Go **[here](http://react-timer-basic.drminnaar.me/)** for live demo.
 
 Component Diagram
 ![](https://user-images.githubusercontent.com/33935506/34461426-30e5547c-ee32-11e7-8889-4fd16df7a7bb.png)
