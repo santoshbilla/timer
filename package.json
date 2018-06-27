@@ -1,7 +1,7 @@
 {
-  "name": "react-timer-basic",
+  "name": "timer",
   "version": "1.0.0",
-  "description": "A basic timer that will start a countdown based on an input of time in seconds",
+  "description": "A timer that will start countdown with on an input of time",
   "scripts": {
     "build": "webpack -d",
     "build:watch": "webpack --watch",
@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drminnaar/react-timer-basic.git"
+    "url": "git+https://github.com/santoshbilla/timer.git"
   },
-  "license": "MIT",
+  "license": "IDE",
   "babel": {
     "presets": [
       "env",
